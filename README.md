@@ -1,2 +1,2 @@
-# Portfolio-website
-My portfolio website, built with CSS and HTML, features a responsive design inspired by another site. It incorporates smooth scrolling, gradients, and ethical adaptations, showcasing my skills and creativity.
+#Portfolio Website
+Built with HTML and CSS, my portfolio showcases structured design, smooth scrolling, gradients, and ethical adaptations. While currently non-responsive, I’m learning React to enhance interactivity and responsiveness soon.
